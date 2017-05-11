@@ -1,6 +1,6 @@
 package $package$
 
-object $name;format="Camel"$ {
+object Application {
   def main(args: Array[String]): Unit = {
 
   }
